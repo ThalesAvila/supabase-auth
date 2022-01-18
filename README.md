@@ -18,5 +18,10 @@ yarn dev
 ```
 
 ## Páginas:
-1 - Página **profile** usando auth baseado no localStorage, ou seja, client-side auth
-2 - Página **protected** usando auth baseado em cookies com a função getServerSideProps, ou seja, server-side auth 
+```
+Página profile usando auth baseado no localStorage, ou seja, client-side auth
+```
+
+```
+Página protected usando auth baseado em cookies com a função getServerSideProps, ou seja, server-side auth
+```
